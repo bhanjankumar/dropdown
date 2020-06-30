@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.d-none {
+  display: none;
+}
+.dropdown ul {
+  list-style-type: none;
+  text-align: left;
+  padding: 0;
+}
+.dropdown ul li span {
+  text-align: right;
+  float: right;
+}
+.dropdown img{
+  height: 20px;
+    text-align: right;
+    float: right;
+}
+.dropdown .border{
+  cursor: pointer;
+}
